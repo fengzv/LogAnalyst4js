@@ -1,0 +1,18 @@
+[32m[2017-09-26 00:07:18.628] [INFO] console - [39m======entry===== 575 562
+[32m[2017-09-26 00:07:18.628] [INFO] /app/servers/chat/handler/chatHandler.js - [39m[32m[39muser id:575 entry...
+[32m[2017-09-26 00:07:18.629] [INFO] console - [39m查询好友==== 562 1 null 0 null
+[32m[2017-09-26 00:07:18.629] [INFO] /app/util/xxx.js - [39m[32m[39mgetPlayerxxx 562
+[32m[2017-09-26 00:07:18.629] [INFO] console - [39mres null
+[32m[2017-09-26 00:07:18.629] [INFO] /app/servers/chat/module/xxx.js - [39m[32m[39mgetPlayerxxx res {}
+[32m[2017-09-26 00:07:18.629] [INFO] /app/servers/chat/module/xxx.js - [39m[32m[39mset xxx 562 {}
+[32m[2017-09-26 00:07:18.629] [INFO] /app/servers/chat/module/xxx.js - [39m[32m[39mdelProp ids []
+[32m[2017-09-26 00:07:18.630] [INFO] console - [39mQrankData { '1_1_3_star': 0,
+  '1_1_3_maxStar': 0,
+  '1_2_3_star': 0,
+  '1_2_3_maxStar': 0,
+  reward: 0 }
+[32m[2017-09-26 00:07:18.630] [INFO] console - [39m======entry====qrank= { '1_1_3_star': 0,
+  '1_1_3_maxStar': 0,
+  '1_2_3_star': 0,
+  '1_2_3_maxStar': 0,
+  reward: 0 }aaaa
